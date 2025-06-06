@@ -1,0 +1,15 @@
+/* CSS HEX */
+:root {
+  --davys-gray: #5a5553ff;
+  --dim-gray: #64615fff;
+  --jet: #2c2825ff;
+  --cinereous: #91857dff;
+  --khaki: #bcae9aff;
+
+  /* CSS HSL */
+  --davys-gray: hsla(17, 4%, 34%, 1);
+  --dim-gray: hsla(24, 3%, 38%, 1);
+  --jet: hsla(26, 9%, 16%, 1);
+  --cinereous: hsla(24, 8%, 53%, 1);
+  --khaki: hsla(35, 20%, 67%, 1);
+}
