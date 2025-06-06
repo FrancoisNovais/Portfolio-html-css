@@ -15,7 +15,7 @@ Il s'agit d’un projet évolutif qui s’améliorera au fil de l’acquisition 
 ## Technologies utilisées
 
 - HTML5
-- CSS3 (fichier `style.css` dans le dossier `css/`)
+- CSS3
 
 ## Structure du projet
 
@@ -36,4 +36,3 @@ Le projet a pour but d'être régulièrement mis à jour pour intégrer :
 N’hésitez pas à consulter les commits pour suivre l’évolution.
 
 Merci de votre visite !
-# Portfolio-html-css
